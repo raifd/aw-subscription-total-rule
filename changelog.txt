@@ -1,0 +1,5 @@
+# Changelog
+
+## 1.0.0 – Initial Release
+- Adds custom AutomateWoo rule to compare subscription total.
+- Compatible with HPOS and WooCommerce 9+.
