@@ -1,3 +1,16 @@
+---
+Plugin Name: AW Subscription Total Rule
+Requires at least: 6.0
+Tested up to: 6.8.1
+Requires PHP: 7.4
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: automatewoo, woocommerce, subscription, workflows
+---
+
+# AW Subscription Total Rule
+
 # AW Subscription Total Rule
 
 Adds a new [AutomateWoo](https://woocommerce.com/products/automatewoo/) rule that compares the total value of a WooCommerce subscription. Built for merchants who want to automate workflows based on subscription revenue thresholds.
